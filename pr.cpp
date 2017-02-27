@@ -10,5 +10,6 @@ int main (){
 	for (i=0;i<N;i++){
 	cout << a[i];
 	return 0;
+	b+=c;
 }
 
